@@ -1,0 +1,11 @@
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a{
+    color: yellow;
+}
+
+.wy-side-nav-search>a.icon img.logo, .wy-side-nav-search .wy-dropdown>a.icon img.logo{
+    margin-top:0
+}
+
+.wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo{
+    width:45%
+}
